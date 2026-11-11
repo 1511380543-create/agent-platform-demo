@@ -106,7 +106,7 @@ flowchart TB
 
 登录后页面如下。如果无法访问，可在面试时现场演示。
 
-![image-20261111185111352](/Users/a15804298237/Library/Application Support/typora-user-images/image-20261111185111352.png)
+![平台展示](picture/平台展示.png)
 
 ## 演示账号
 
